@@ -1,4 +1,5 @@
 ! This is a comment test!
+! This is connection test!
 
 #include "perflib_preproc.cpp"
 program magic
