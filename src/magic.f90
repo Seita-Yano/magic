@@ -1,3 +1,5 @@
+! This is a comment test!
+
 #include "perflib_preproc.cpp"
 program magic
 !  A dynamic dynamo model driven by thermal convection
